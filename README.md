@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+I'm an entrepreneurship enthusiast turned Full Stack Developer, with 2 years of experience in Marketing at the European Investment Fund, the EU body financing startups and small businesses 🇪🇺 
+
+🧠 My curiosity led me to various sectors - 2 years of experience in public sector (EU), finance, social impact consulting, FMCG and student focused services. 👩🏻‍💻 With my EU job, I got to learn about creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories.
+
+🏄‍♀️ Built Surf the Job, a student-focused start-up with no-code.
+
+🛠️ Fell in love with building so I learnt proper Full Stack Development and completed a Le Wagon bootcamp 👉🏼 Ruby on Rails, Git, CSS, HTML, JavaScript, SQL, Figma.
+
+🌍 Currently based in Lisbon. Previously Luxembourg, Norway, Canada, Thailand and Netherlands. 
+
+🗣️ Passionate about what makes people tick, which led me to seek multicultural environments and study languages to connect with different cultures, such as German and Spanish. I'm into alternative and self-sustaining ways of living: lived in a self-sustaining community contributing through marketing/sales. 
+
+📷 ∙ 👙 I enjoy developing my creative eye through photography [ photo competition "Human Rights in the Perspective of the Youth" ] & sewing [ I make my own swimwear since I was 15 y/o] 
+
+🎙 Just gave a storytelling workshop in Belgium! 🤗
+
+Always up to chat about Social Innovation, Intrapreneurship, Creator Economy, Technology and beyond. Education and financial literacy are also topics dear to me. Get in touch!
+
+https://mariaineslucas.com
+
 <!--
 **ineslucas/ineslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
