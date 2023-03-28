@@ -12,11 +12,9 @@ I'm an entrepreneurship enthusiast turned Full Stack Developer, with 2 years of 
 
 🗣️ Passionate about what makes people tick, which led me to seek multicultural environments and study languages to connect with different cultures, such as German and Spanish. I'm into alternative and self-sustaining ways of living: lived in a self-sustaining community contributing through marketing/sales. 
 
-📷 ∙ 👙 I enjoy developing my creative eye through photography [ photo competition "Human Rights in the Perspective of the Youth" ] & sewing [ I make my own swimwear since I was 15 y/o] 
-
 🎙 Just gave a storytelling workshop in Belgium! 🤗
 
-Always up to chat about Social Innovation, Intrapreneurship, Creator Economy, Technology and beyond. Education and financial literacy are also topics dear to me. Get in touch!
+I'm excited to develop my skills in creative technology and full stack development. Get in touch!
 
 https://mariaineslucas.com
 
