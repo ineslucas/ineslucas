@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏼
 
 I'm an entrepreneurship enthusiast turned Full Stack Developer, with 2 years of experience in Marketing at the European Investment Fund, the EU body financing startups and small businesses 🇪🇺 
 
