@@ -16,7 +16,7 @@ I'm an entrepreneurship enthusiast turned Full Stack Developer, with 2 years of 
 
 I'm excited to develop my skills in creative technology and full stack development. Get in touch!
 
-https://mariaineslucas.com
+https://mariaineslucas.com (will be recoding this soon on my own! 😉)
 
 <!--
 **ineslucas/ineslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
