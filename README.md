@@ -4,9 +4,9 @@ I'm an entrepreneurship enthusiast turned Full Stack Developer, with 2 years of 
 
 🧠 My curiosity led me to various sectors - 2 years of experience in public sector (EU), finance, social impact consulting, FMCG and student focused services. 👩🏻‍💻 My experience at the EU was hands-on, encompassing creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories.
 
-🏄‍♀️ Built Surf the Job, a student-focused start-up with no-code.
+🏄‍♀️ Built Surf the Job, a youth employment and upskilling focused start-up with no-code.
 
-🛠️ Fell in love with building so I learnt proper Full Stack Development and completed a Le Wagon bootcamp, where I learnt Ruby on Rails, Git, CSS, HTML, JavaScript, SQL, Figma.
+🛠️ Fell in love with building so I learnt proper Full Stack Development  by completing a Le Wagon bootcamp, where I learnt Ruby on Rails, Git, CSS, HTML, JavaScript, SQL, Figma.
 
 🌍 Currently based in Lisbon. Previously Luxembourg, Norway, Canada, Thailand and Netherlands. 
 
