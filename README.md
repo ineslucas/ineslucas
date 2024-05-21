@@ -8,13 +8,23 @@ I'm an entrepreneurship enthusiast turned Full Stack Developer, with 2 years of 
 
 🛠️ Fell in love with building so I learnt proper Full Stack Development  by completing a Le Wagon bootcamp, where I learnt Ruby on Rails, Git, CSS, HTML, JavaScript, SQL, Figma.
 
-🌍 Currently based in Lisbon. Previously Luxembourg, Norway, Canada, Thailand and Netherlands. 
+🌍 Currently based in Lisbon - moving to New York City soon. Previously Luxembourg, Norway, Canada, Thailand and Netherlands. 
 
 🗣️ Passionate about what makes people tick, which led me to seek multicultural environments and study languages to connect with different cultures, such as German and Spanish. I'm into alternative and self-sustaining ways of living: lived in a self-sustaining community contributing through marketing/sales. 
 
 🎙 Sharing insights from my journey in EU comms, I led a storytelling workshop in Belgium!
 
-I'm excited to develop my skills in creative technology and full stack development. Also always up to chat about Social Innovation, Entrepreneurship, Neuroscience and beyond. Education and financial literacy are also topics dear to me. Get in touch!
+I'm excited to develop my skills in creative technology and full stack development. Also always up to chat about Social Innovation, Entrepreneurship, Neuroscience and beyond. Education and financial literacy are also topics dear to me.
+
+⤵️
+
+[ skillset ]: Web Development, Immersive Experiences, Project Management, Copywriting, Brand Strategy, Product Development, European Ecosystem of Innovation, Comms in the Public Sector / Financial institutions
+
+[ technologies ]: JavaScript, Ruby on Rails, React, 3D (React Three Fiber, Three JS), GSAP, Vercel, Heroku, HTML, CSS, SQL, Git, Figma
+
+[ interests ]: Homemade Hardware, Physical Computing, Futures, Social Innovation, Neuroscience, Wellness Tech, Creative Coding, Storytelling, Growth Marketing, EdTech, Financial Literacy, Indie Hacking, Open Source
+
+Get in touch!
 
 <!--
 **ineslucas/ineslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
