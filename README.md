@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-I'm an entrepreneurship enthusiast turned Full Stack Developer, with 2 years of experience in Marketing at the European Investment Fund, the EU body financing startups and small businesses 🇪🇺 
+I'm an entrepreneurship enthusiast turned Full Stack Developer working at Unbabel and studying Interactive Telecommunications at NYU, with 2 years of experience in Marketing at the European Investment Fund, the EU body financing startups and small businesses 🇪🇺 
 
 🧠 My curiosity led me to various sectors - 2 years of experience in public sector (EU), finance, social impact consulting, FMCG and student focused services. 👩🏻‍💻 My experience at the EU was hands-on, encompassing creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories.
 
