@@ -13,7 +13,7 @@ Entrepreneurship enthusiast and full stack developer based in NYC, currently a g
 
 🏄‍♀️ Built Surf the Job, a youth employment and upskilling focused start-up.
 
-🛠️ Social Impact and advocacy is at the center of my practice. Fell in love with creating delightful and socially conscious web experiences so transitioned into Full Stack Development and have since worked as a <b>developer for Unbabel with the Center for Responsible AI and NYU on a research project</b>.
+🛠️ Social Impact and advocacy is at the center of my practice. Fell in love with creating delightful and socially conscious web experiences so transitioned into Full Stack Development and have since worked as a developer for Unbabel with the Center for Responsible AI and NYU on a climate research project.
 
 🇪🇺 My time at the European Investment Fund was a perfect blend of creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories. It prepared me to develop meaningful products in a structured way.
 
