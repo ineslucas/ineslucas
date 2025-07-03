@@ -10,7 +10,9 @@ Entrepreneurship enthusiast and full stack developer based in NYC, currently a g
 
 🇪🇺 My time at the European Investment Fund was a perfect blend of creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories. It prepared me to develop meaningful products in a structured way.
 
-🗣️ Passionate about what makes people tick, which led me to seek multicultural environments and study languages to connect with different cultures, such as German and Spanish. I'm into alternative and self-sustaining ways of living: lived in a self-sustaining community contributing through marketing/sales. 
+🌎  I've spent most of my life volunteering, having collaborated with the European Commission, Generation Climate Europe, lived in a self-sustaining eco-community contributing through marketing in the Netherlands and I've led a workshop on storytelling for young people working in public policy in Belgium.
+
+🗣️  Passionate about what makes people tick, which led me to seek multicultural environments and study languages to connect with different cultures, such as German and Spanish.
 
 📷 ∙ 👙 I enjoy developing my creative eye through photography [ photo competition "Human Rights in the Perspective of the Youth" ] & sewing [ I make my own swimwear since I was 15 y/o ] 
 
