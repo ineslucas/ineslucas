@@ -1,6 +1,6 @@
 <!-- Top-right square image occupying ~40 % of the column -->
 
-<img src="https://github.com/user-attachments/assets/862cefb7-8ab7-4f13-9751-1dcd589f83a5"
+<img src="https://github.com/user-attachments/assets/3a7ccfd5-1683-4ee8-8c82-3c5571bd1b66"
      alt="Square work-samples collage"
      width="40%"
      align="right">
