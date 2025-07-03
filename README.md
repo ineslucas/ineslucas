@@ -1,16 +1,18 @@
 ### Hi there 👋🏼
 
-I'm an entrepreneurship enthusiast turned Full Stack Developer working at Unbabel and studying Interactive Telecommunications at NYU, with 2 years of experience in Marketing at the European Investment Fund, the EU body financing startups and small businesses 🇪🇺 
+Entrepreneurship enthusiast and full stack developer based in NYC, currently a grad student in Interactive Telecommunications (ITP) at NYU 🇺🇸
 
-🧠 My curiosity led me to various sectors - 2 years of experience in public sector (EU), finance, social impact consulting, FMCG and student focused services. 👩🏻‍💻 My experience at the EU was hands-on, encompassing creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories.
+🧠 My curiosity led me to various sectors - tech, public sector (EU), finance, social impact consulting, FMCG and student focused services across 7 countries.
 
-🏄‍♀️ Built Surf the Job, a youth employment and upskilling focused start-up with no-code.
+🏄‍♀️ Built Surf the Job, a youth employment and upskilling focused start-up.
 
-🛠️ Fell in love with building so I learnt proper Full Stack Development  by completing a Le Wagon bootcamp, where I learnt Ruby on Rails, Git, CSS, HTML, JavaScript, SQL, Figma.
+🛠️ Social Impact and advocacy is at the center of my practice. Fell in love with creating delightful and socially conscious web experiences so transitioned into Full Stack Development and have since worked as a developer for Unbabel with the Center for Responsible AI and NYU.
 
-🌍 Based in New York City. Previously Luxembourg, Norway, Canada, Thailand and Netherlands. 
+🇪🇺 My time at the European Investment Fund was a perfect blend of creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories. It prepared me to develop meaningful products in a structured way.
 
 🗣️ Passionate about what makes people tick, which led me to seek multicultural environments and study languages to connect with different cultures, such as German and Spanish. I'm into alternative and self-sustaining ways of living: lived in a self-sustaining community contributing through marketing/sales. 
+
+📷 ∙ 👙 I enjoy developing my creative eye through photography [ photo competition "Human Rights in the Perspective of the Youth" ] & sewing [ I make my own swimwear since I was 15 y/o ] 
 
 🎙 Sharing insights from my journey in EU comms, I led a storytelling workshop in Belgium!
 
