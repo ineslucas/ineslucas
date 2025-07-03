@@ -1,4 +1,12 @@
+<!-- Top-right square image occupying ~40 % of the column -->
+
+<img src="https://github.com/user-attachments/assets/862cefb7-8ab7-4f13-9751-1dcd589f83a5"
+     alt="Square work-samples collage"
+     width="40%"
+     align="right">
+
 ### Hi there 👋🏼
+
 
 Entrepreneurship enthusiast and full stack developer based in NYC, currently a grad student in Interactive Telecommunications (ITP) at NYU 🇺🇸
 
@@ -6,7 +14,7 @@ Entrepreneurship enthusiast and full stack developer based in NYC, currently a g
 
 🏄‍♀️ Built Surf the Job, a youth employment and upskilling focused start-up.
 
-🛠️ Social Impact and advocacy is at the center of my practice. Fell in love with creating delightful and socially conscious web experiences so transitioned into Full Stack Development and have since worked as a developer for Unbabel with the Center for Responsible AI and NYU.
+🛠️ Social Impact and advocacy is at the center of my practice. Fell in love with creating delightful and socially conscious web experiences so transitioned into Full Stack Development and have since worked as a <b>developer for Unbabel with the Center for Responsible AI and NYU on a research project</b>.
 
 🇪🇺 My time at the European Investment Fund was a perfect blend of creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories. It prepared me to develop meaningful products in a structured way.
 
