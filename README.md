@@ -7,7 +7,6 @@
 
 ### Hi there 👋🏼
 
-
 Entrepreneurship enthusiast and full stack developer based in NYC, currently a grad student in Interactive Telecommunications (ITP) at NYU 🇺🇸
 
 🧠 My curiosity led me to various sectors - tech, public sector, finance, social impact consulting, FMCG and student focused services across 7 countries.
@@ -20,14 +19,6 @@ Entrepreneurship enthusiast and full stack developer based in NYC, currently a g
 
 🌎  I've spent most of my life volunteering, having collaborated with the European Commission, Generation Climate Europe, lived in a self-sustaining eco-community contributing through marketing in the Netherlands and I've led a workshop on storytelling for young people working in public policy in Belgium.
 
-🗣️  Passionate about what makes people tick, which led me to seek multicultural environments and study languages to connect with different cultures, such as German and Spanish.
-
-📷 ∙ 👙 I enjoy developing my creative eye through photography [ photo competition "Human Rights in the Perspective of the Youth" ] & sewing [ I make my own swimwear since I was 15 y/o ] 
-
-🎙 Sharing insights from my journey in EU comms, I led a storytelling workshop in Belgium!
-
-I'm excited to develop my skills in creative technology and full stack development. Also always up to chat about Social Innovation, Entrepreneurship, Neuroscience and beyond. Education and financial literacy are also topics dear to me.
-
 ⤵️
 
 [ skillset ]:  Software Development, Immersive Experiences on the web, Project Management, Copywriting, Brand Strategy, Product Development, European Ecosystem of Innovation, Comms in the Public Sector / Financial institutions, Creative Strategy
@@ -36,7 +27,7 @@ I'm excited to develop my skills in creative technology and full stack developme
 
 [ interests ]:  Futures, Social Innovation, Climate Innovation, Neuroscience, Wellness Tech, Wearables, Indie Hacking, Open Source, Creative Coding, Storytelling, New Media Art, Homemade Hardware, Physical Computing, Growth Marketing, EdTech, Financial Literacy
 
-Get in touch!
+I'm excited to develop my skills in creative technology and full stack development. Get in touch!
 
 <!--
 **ineslucas/ineslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
