@@ -20,11 +20,11 @@ I'm excited to develop my skills in creative technology and full stack developme
 
 ⤵️
 
-[ skillset ]: Web Development, Immersive Experiences, Project Management, Copywriting, Brand Strategy, Product Development, European Ecosystem of Innovation, Comms in the Public Sector / Financial institutions
+[ skillset ]:  Software Development, Immersive Experiences on the web, Project Management, Copywriting, Brand Strategy, Product Development, European Ecosystem of Innovation, Comms in the Public Sector / Financial institutions, Creative Strategy
 
-[ technologies ]: JavaScript, Ruby on Rails, React, 3D (React Three Fiber, Three JS), GSAP, Vercel, Heroku, HTML, CSS, SQL, Git, Figma
+[ technologies ]: HTML5, CSS3, JavaScript/TypeScript, React, Next.js, Python, Redux, 3D (React Three Fiber, Three JS), Styled Components, GSAP, FastAPI, Pydantic, JupyterHub, Ruby on Rails, Node.js, SQL databases, Cloud Firestore, Docker, Vite, Webpack, Git/GitHub, Cloudinary, MediaPipe, Arduino & sensor stacks, Figma
 
-[ interests ]: Homemade Hardware, Physical Computing, Futures, Social Innovation, Neuroscience, Wellness Tech, Creative Coding, Storytelling, Growth Marketing, EdTech, Financial Literacy, Indie Hacking, Open Source
+[ interests ]:  Futures, Social Innovation, Climate Innovation, Neuroscience, Wellness Tech, Wearables, Indie Hacking, Open Source, Creative Coding, Storytelling, New Media Art, Homemade Hardware, Physical Computing, Growth Marketing, EdTech, Financial Literacy
 
 Get in touch!
 
