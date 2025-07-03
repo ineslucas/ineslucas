@@ -8,7 +8,7 @@ I'm an entrepreneurship enthusiast turned Full Stack Developer working at Unbabe
 
 🛠️ Fell in love with building so I learnt proper Full Stack Development  by completing a Le Wagon bootcamp, where I learnt Ruby on Rails, Git, CSS, HTML, JavaScript, SQL, Figma.
 
-🌍 Currently based in Lisbon - moving to New York City soon. Previously Luxembourg, Norway, Canada, Thailand and Netherlands. 
+🌍 Based in New York City. Previously Luxembourg, Norway, Canada, Thailand and Netherlands. 
 
 🗣️ Passionate about what makes people tick, which led me to seek multicultural environments and study languages to connect with different cultures, such as German and Spanish. I'm into alternative and self-sustaining ways of living: lived in a self-sustaining community contributing through marketing/sales. 
 
