@@ -7,7 +7,7 @@
 
 ### Hi there 👋🏼
 
-Entrepreneurship enthusiast and full stack developer based in NYC, currently a grad student in Interactive Telecommunications (ITP) at NYU 🇺🇸
+Entrepreneurship enthusiast and full stack developer based in NYC, currently a grad student in Interactive Telecommunications (ITP) at NYU 🗽�
 
 🧠 My curiosity led me to various sectors - tech, public sector, finance, social impact consulting, FMCG and student focused services across 7 countries.
 
