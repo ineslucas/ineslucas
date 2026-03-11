@@ -7,27 +7,25 @@
 
 ### Hi there 👋🏼
 
-Entrepreneurship enthusiast and full stack developer based in NYC, currently a grad student in Interactive Telecommunications (ITP) at NYU 🗽�
+Interdisciplinary full stack developer, data analyst, marketeer and organizer, currently a grad student at NYU's Interactive Telecommunications (ITP). 
 
-🧠 My curiosity led me to various sectors - tech, public sector, finance, social impact consulting, FMCG and student focused services across 7 countries.
+✿ Product oriented and data-driven, I've worked with governmental agencies, such as the European Union and the European Investment Fund, tech startups like Unbabel and the Center for Responsible AI and in consulting and FMCG across 7 countries with social impact and accessibility at the center.
 
-🏄‍♀️ Built Surf the Job, a youth employment and upskilling focused start-up.
+Through my art practice, I've presented work at Shadow Traffic, Horological Society of New York, Porter Novelli's Innovation Salon, Brooklyn Metal Works and other interactive media art shows.
 
-🛠️ Social Impact and advocacy is at the center of my practice. Fell in love with creating delightful and socially conscious web experiences so transitioned into Full Stack Development and have since worked as a developer for Unbabel with the Center for Responsible AI and NYU on a climate research project.
+🇪🇺 My time at the European Investment Fund was a perfect blend of creative work, project management, policy, Venture Capital, small business financing and how to craft stories. It prepared me to develop meaningful products in a structured way.
 
-🇪🇺 My time at the European Investment Fund was a perfect blend of creative work, project management, EU policy, Venture Capital, SME financing and how to craft stories. It prepared me to develop meaningful products in a structured way.
+🌎 I've spent most of my life volunteering, having collaborated with the European Commission, Generation Climate Europe, lived in a self-sustaining eco-community contributing through marketing in the Netherlands, led a workshop on storytelling for young people working in public policy in Belgium and was a teaching assistant at NYU.
 
-🌎  I've spent most of my life volunteering, having collaborated with the European Commission, Generation Climate Europe, lived in a self-sustaining eco-community contributing through marketing in the Netherlands and I've led a workshop on storytelling for young people working in public policy in Belgium.
+I have a soft spot for fabrication and work fluently across digital and physical media. My tools of choice include software development, interactive media platforms, physical computing, and machine learning for real-time experiences. Get in touch! ✿
 
 ⤵️
 
-[ skillset ]:  Software Development, Immersive Experiences on the web, Project Management, Copywriting, Brand Strategy, Product Development, European Ecosystem of Innovation, Comms in the Public Sector / Financial institutions, Creative Strategy
+[ skillset ]:  Software Development, Immersive Experiences on the web, Project Management, Copywriting, Brand Strategy, Product Development,  Innovation Ecosystem, Comms in the Public Sector / Financial institutions, Creative Strategy
 
-[ technologies ]: HTML5, CSS3, JavaScript/TypeScript, React, Next.js, Python, Redux, 3D (React Three Fiber, Three JS), Styled Components, GSAP, FastAPI, Pydantic, JupyterHub, Ruby on Rails, Node.js, SQL databases, Cloud Firestore, Docker, Vite, Webpack, Git/GitHub, Cloudinary, MediaPipe, Arduino & sensor stacks, Figma
+[ technologies ]: HTML, JavaScript/TypeScript, React, Next.js, Python, Redux, 3D (React Three Fiber, Three JS), GSAP, FastAPI, Pydantic, JupyterHub, Ruby on Rails, Node.js, SQL databases, Cloud Firestore, Docker, Vite, Webpack, Git/GitHub, Cloudinary, MediaPipe, Arduino & sensor stacks, Figma
 
-[ interests ]:  Futures, Social Innovation, Climate Innovation, Neuroscience, Wellness Tech, Wearables, Indie Hacking, Open Source, Creative Coding, Storytelling, New Media Art, Homemade Hardware, Physical Computing, Growth Marketing, EdTech, Financial Literacy
-
-I'm excited to develop my skills in creative technology and full stack development. Get in touch!
+[ interests ]:  Futures, Social Innovation, Climate, Neuroscience, Wellness Tech, Wearables, Indie Hacking, AI Workflows, Machine Learning, Creative Coding, Storytelling, New Media Art, Homemade Hardware, Physical Computing, Growth Marketing, EdTech
 
 <!--
 **ineslucas/ineslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
