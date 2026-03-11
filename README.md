@@ -7,7 +7,7 @@
 
 ### Hi there 👋🏼
 
-Interdisciplinary full stack developer, data analyst, marketeer and organizer, currently a grad student at NYU's Interactive Telecommunications (ITP). 
+I'm an interdisciplinary full stack developer, data analyst, marketeer and organizer, currently a grad student at NYU's Interactive Telecommunications (ITP). 
 
 ✿ Product oriented and data-driven, I've worked with governmental agencies, such as the European Union and the European Investment Fund, tech startups like Unbabel and the Center for Responsible AI and in consulting and FMCG across 7 countries with social impact and accessibility at the center.
 
